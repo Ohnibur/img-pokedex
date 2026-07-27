@@ -22,3 +22,4 @@ Imagenes para app de pokemon
 <img src="https://raw.githubusercontent.com/Ohnibur/img-pokedex/main/img_a38efd9d.png" width="150" style="margin: 5px;">
 <img src="https://raw.githubusercontent.com/Ohnibur/img-pokedex/main/img_53c261d4.png" width="150" style="margin: 5px;">
 <img src="https://raw.githubusercontent.com/Ohnibur/img-pokedex/main/img_9161f0e9.png" width="150" style="margin: 5px;">
+<img src="https://raw.githubusercontent.com/Ohnibur/img-pokedex/main/img_3191b5eb.png" width="150" style="margin: 5px;">
